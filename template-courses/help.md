@@ -1,7 +1,7 @@
 # Các câu lệnh thường dùng
 
-django-admin startproject abc
-django-admin startapp app
+django-admin startproject project_courses
+django-admin startapp app courses6
 
 python manage.py makemigrations
 python manage.py migrate
